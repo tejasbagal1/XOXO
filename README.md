@@ -1,6 +1,20 @@
-# bestxo
+# XOXO
 
-A new Flutter project.
+This is a **Tic Tac Toe** game App made with **Flutter**. It has responsive UI and animations for interesting game experience. 
+  
+For the <em>BOT</em> as opponent player we have implemented **Min-Max** algorithm, thus the <em>BOT</em> is ubeatable!
+
+## FeatureS
+
+|  UI  | Logic | Feature |
+| ------ | ------ | ------|
+| ✔ |   | Splash screen
+| ✔ |   | Choosing Opponent
+| ✔ | ✔ | 2x Player game
+| ✔ | ✔ | Bot as opponent
+
+## To play the game download the **APK** above!
+
 
 ## Getting Started
 
@@ -14,3 +28,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
