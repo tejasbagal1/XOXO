@@ -16,6 +16,11 @@ For the <em>BOT</em> as opponent player we have implemented **Min-Max** algorith
 ## To play the game download the **APK** above!
 
 
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/58545228/118113280-b6d13e80-b403-11eb-9464-e14d16d656f7.PNG"/>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
